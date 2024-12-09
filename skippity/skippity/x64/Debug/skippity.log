@@ -1,0 +1,22 @@
+﻿  main.c
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(77,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(84,43): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(84,38): warning C4024: 'start_menu': different types for formal and actual parameter 4
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(79,11): warning C4101: 'board': unreferenced local variable
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(242,41): warning C4028: formal parameter 2 different from declaration
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(350,22): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(358,29): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(358,41): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(368,35): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(368,47): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(373,34): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(373,41): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(373,47): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(376,33): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(376,45): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(378,39): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(378,51): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(387,12): warning C4101: 'j': unreferenced local variable
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(708,31): warning C4090: 'function': different 'const' qualifiers
+C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\skippity\main.c(544): warning C4172: returning address of local variable or temporary: new_players
+  skippity.vcxproj -> C:\Users\kaany\Desktop\Uni Shit\YTU\BLM1031\skippity\x64\Debug\skippity.exe
